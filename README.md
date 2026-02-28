@@ -1,7 +1,6 @@
 
 # 📄 Document Classification using NLP
 
-**Author:** Krishna Parashar
 
 This project implements a **Natural Language Processing (NLP)** based document classification system using Machine Learning and TF-IDF feature extraction.
 
@@ -201,5 +200,6 @@ Free to use and modify.
 
 **Krishna Parashar**
 Machine Learning & AI Enthusiast 🚀
+
 
 
